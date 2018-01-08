@@ -1,2 +1,2 @@
-# Taesong-Design
+# Taesong-Portfolio
 Taesong Design Portfolio
