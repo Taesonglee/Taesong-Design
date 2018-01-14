@@ -43,6 +43,23 @@
 .project-02-carousel-item-03{
 	background-image: url('../images/project/project02/03.jpg');
 }
+.project-03-carousel-item-01{
+	background-image: url('../images/project/project03/01.jpg');
+}
+.project-03-carousel-item-02{
+	background-image: url('../images/project/project03/02.jpg');
+}
+.project-03-carousel-item-03{
+	background-image: url('../images/project/project03/03.jpg');
+}
+.project-04-carousel-item-01{
+	background-image: url('../images/project/project04/01.jpg');
+}
+.project-04-carousel-item-02{
+	background-image: url('../images/project/project04/02.jpg');
+}
+.project-04-carousel-item-03{
+	background-image: url('../images/project/project04/03.jpg');
 /*Mobile Menu Logo*/
 .menu-collapser {
     background-image: url('../images/logo.svg');

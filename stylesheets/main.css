@@ -54,7 +54,7 @@ a:focus {
     text-transform: uppercase;
     padding: 20px;
     padding-left: 28px;
-    border: solid 4px #222;
+    /*border: solid 4px #222;*/
 }
 .main-heading > span{
   font-size: 32px;
@@ -705,7 +705,7 @@ nav.mastnav a:focus{
                     transition: all .4s ease-in-out;
         }
         .info a:hover{
-            cursor: url("../images/plus.png") 40 40, crosshair;
+            cursor: url("../images/cursor.sv") 40 40, crosshair;
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
@@ -713,7 +713,7 @@ nav.mastnav a:focus{
                     transition: all .4s ease-in-out;
         }
         .zoom a:hover{
-            cursor: url("../images/zoom.png") 40 40, crosshair;
+            cursor: url("../images/cursor.svg") 40 40, crosshair;
             -webkit-transition: all .4s ease-in-out;
                -moz-transition: all .4s ease-in-out;
                 -ms-transition: all .4s ease-in-out;
